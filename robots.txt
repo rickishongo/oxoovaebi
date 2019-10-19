@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://liephiaru.rastergames.com/sitemap.xml
